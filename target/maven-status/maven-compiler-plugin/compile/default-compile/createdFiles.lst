@@ -1,0 +1,6 @@
+co\edu\usa\Reto1\Reto1Application.class
+co\edu\usa\Reto1\interfaz\UserCrudRepository.class
+co\edu\usa\Reto1\model\User.class
+co\edu\usa\Reto1\service\UserService.class
+co\edu\usa\Reto1\repository\UserRepository.class
+co\edu\usa\Reto1\controller\UserController.class
